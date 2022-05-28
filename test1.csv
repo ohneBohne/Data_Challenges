@@ -1,49 +1,353 @@
-,text,id,public_metrics.retweet_count,public_metrics.reply_count,public_metrics.like_count,public_metrics.quote_count,lang,created_at,conversation_id,author_id,query,is_retweet,created_at_day
-183,"@EarningsSeason Meinen Arbeitsweg in der Stadt bewältige ich am liebsten mit dem Rad. Lange Strecken ausschließlich mit dem Auto. Alles andere (Zug, U-Bahn, Bus) ist, vor allem mit Kind, einfach keine Option.",1518677619897774081,0,0,0,0,de,2022-04-25T19:45:34.000Z,1518304328414597120,192546981,"['Zug rad', 'Bus rad']",0,2022-04-25
-752,"@ann_wew @k_stukenberg Meine fadenscheinige Begründung sind 40 km Arbeitsweg und ein miserabler ÖPNV. Würde gerne mit dem Rad fahren, geht aber nicht. Soll ich jetzt deswegen ein schlechtes Gewissen haben müssen? Diese pauschalen Verurteilungen helfen niemandem.",1519776469920137223,0,2,2,0,de,2022-04-28T20:32:01.000Z,1519411742522155015,1399439337339686917,['ÖPNV rad'],0,2022-04-28
-832,"@realPotsdam Tür zu Tür mein Arbeitsweg:
-Auto: 25 bis 30 Minuten
-Fahrrad: 45 Minuten
-ÖPNV: 90 Minuten (trotz guter Taktung)
+,text,id,public_metrics.retweet_count,public_metrics.reply_count,public_metrics.like_count,public_metrics.quote_count,lang,created_at,conversation_id,author_id,query,is_retweet,created_at_day,text_altered
+42,"Mit der #Straßenbahn ins Büro, dem #Fahrrad zum Bundespräsidenten und klarem Kurs auf die #Verkehrswende: Österreichs Klimaschutzministerin Leonore Gewessler im #Podcast-Gespräch mit mir. @lgewessler @Schienenallianz @DEVK_Zentrale @BMKlimaschutz https://t.co/iFXMi3IJmF",1518267686077222914,4,0,12,1,de,2022-04-24T16:36:39.000Z,1518267686077222914,3781399282,['Straßenbahn Fahrrad'],0,2022-04-24,"Mit der #Straßenbahn ins Büro, dem #Fahrrad zum Bundespräsidenten und klarem Kurs auf die #Verkehrswende: Österreichs Klimaschutzministerin Leonore Gewessler im #Podcast-Gespräch mit mir. @lgewessler @Schienenallianz @DEVK_Zentrale @BMKlimaschutz "
+355,"@FrankterVeld @cronhill @Gruene_Wupper Es bleibt dabei, dass die #Verkehrsarten #Bus und #Fahrrad zu trennen sind. Alles andere bringt zeitlich keine Vorteile und vergrößert nur die Unfallgefahren.
 
-Meist nutze ich das Rad um im Training zu bleiben und gewinne trotzdem über eine Stunde Lebenszeit ggü. ÖPNV",1519941678257393664,0,0,4,0,de,2022-04-29T07:28:29.000Z,1519922537114779648,1428641304058138624,"['ÖPNV Fahrrad', 'ÖPNV rad']",0,2022-04-29
-2733,"@BlumeEvolution Vegan, nur 1 Auto, Schul- + Arbeitswege mit dem Rad oder Bus, red. Stromverbrauch, viel 2. Hand (Kauf + Verkauf), Wohnung statt Haus, Stadt statt Land, Versuche Konsum zu minimalisieren",1523532739059793920,0,0,4,0,de,2022-05-09T05:18:05.000Z,1523524160307224576,38632424,['Bus rad'],0,2022-05-09
-2832,"@_donalphonso Und auch in ach so ÖPNV geeigneten städtischen Lagen sieht es nicht wesentlich besser aus.
+#Verkehrswende",1519053569202208770,0,0,0,0,de,2022-04-26T20:39:28.000Z,1518550485967515648,22035515,['Bus Fahrrad'],0,2022-04-26,"@FrankterVeld @cronhill @Gruene_Wupper Es bleibt dabei, dass die #Verkehrsarten #Bus und #Fahrrad zu trennen sind. Alles andere bringt zeitlich keine Vorteile und vergrößert nur die Unfallgefahren.
 
-7km Arbeitsweg in 250k Stadt mit schöner Stadtautobahn:
-Auto: 10-12m
-Rad: 20m
-ÖPNV: 40m",1523591572649959425,0,2,3,0,de,2022-05-09T09:11:52.000Z,1523590433409888258,1493572754641203202,['ÖPNV rad'],0,2022-05-09
-2858,"@OldWhiteBoomer @_donalphonso Mein Arbeitsweg in der Landeshauptstadt lt. Google:
-21 Minuten einfach mit Auto.
-48 Minuten mit ÖPNV.
-50 Minuten mit Fahrrad.
+#Verkehrswende"
+494,"Bahn, Fahrrad, zu Fuß oder sogar Seilbahn – lange spielten sie nur eine untergeordnete Rolle - nicht nur auf der Straße, sondern auch in unseren Köpfen und in der Politik. Lasst uns über die Verkehrswende reden! Ich freue mich auf @nyke_slawik und auf euch! https://t.co/6t60UQiVQA",1519364298891567104,7,1,34,0,de,2022-04-27T17:14:11.000Z,1519364298891567104,96538433,['bahn Fahrrad'],0,2022-04-27,"Bahn, Fahrrad, zu Fuß oder sogar Seilbahn – lange spielten sie nur eine untergeordnete Rolle - nicht nur auf der Straße, sondern auch in unseren Köpfen und in der Politik. Lasst uns über die Verkehrswende reden! Ich freue mich auf @nyke_slawik und auf euch! "
+649,"@tom83089380 @Berliner271156 @rbbabendschau @Bettina_Jarasch @SPD_BVVXhain Eine seltsame Sichtweise, aber bitte: Fahrräder wurden mehr verkauft. Gewonnen 😉
+Ich bin ja eh dafür, dass sich JEDER einen PKW in Berlin holen soll. Statt ÖPNV oder Rad zu fahren. Und zwar jetzt sofort! Dann hätten wir in zwei Monaten eine Verkehrswende, die den Namen verdient",1519643885101801473,0,1,0,0,de,2022-04-28T11:45:10.000Z,1519294323489132544,1443517015935815681,['ÖPNV rad'],0,2022-04-28,"@tom83089380 @Berliner271156 @rbbabendschau @Bettina_Jarasch @SPD_BVVXhain Eine seltsame Sichtweise, aber bitte: Fahrräder wurden mehr verkauft. Gewonnen 😉
+Ich bin ja eh dafür, dass sich JEDER einen PKW in Berlin holen soll. Statt ÖPNV oder Rad zu fahren. Und zwar jetzt sofort! Dann hätten wir in zwei Monaten eine Verkehrswende, die den Namen verdient"
+676,"@VerkehrswendeHE Ich habe kein Auto und plane daher anders herum: Wenn Strecke sehr weit, Ziel zu abgelegen, Uhrzeit komisch, daher kein/ kaum ÖPNV oder VIEL zu viel Gepäck, dann miete ich bei @teilAuto - was ca. 5-10x im Jahr der Fall ist. Sonst passt immer zu Fuß, mit Bike oder ÖPNV",1519673891827896320,0,0,1,0,de,2022-04-28T13:44:24.000Z,1519616096290099200,781977549513580544,['ÖPNV bike'],0,2022-04-28,"@VerkehrswendeHE Ich habe kein Auto und plane daher anders herum: Wenn Strecke sehr weit, Ziel zu abgelegen, Uhrzeit komisch, daher kein/ kaum ÖPNV oder VIEL zu viel Gepäck, dann miete ich bei @teilAuto - was ca. 5-10x im Jahr der Fall ist. Sonst passt immer zu Fuß, mit Bike oder ÖPNV"
+748,"@VerkehrswendeHE Na ja, man müsste ein Auto haben das man stehen lassen kann. Ich nutze seit Jahr und Tag ÖPNV und seit einigen Jahren auch sehr häufig das Rad im Frankfurter Stadtverkehr.",1519774084019761156,0,0,0,0,de,2022-04-28T20:22:32.000Z,1519616096290099200,4181811539,['ÖPNV rad'],0,2022-04-28,"@VerkehrswendeHE Na ja, man müsste ein Auto haben das man stehen lassen kann. Ich nutze seit Jahr und Tag ÖPNV und seit einigen Jahren auch sehr häufig das Rad im Frankfurter Stadtverkehr."
+852,"Klimaneutral, umweltfreundlich, sozial gerecht: Am 08. Mai nehmen wir die #Verkehrswende selbst in die Hand. Ob zu Fuß, auf dem Rad oder per ÖPNV - kommt nach Düsseldorf und setzt mit uns ein starkes Signal für die #ltwnrw22!
+Infos &amp; Updates: https://t.co/GQpH9GK18r. https://t.co/Pc9PdiJQFo",1519964403730460672,9,1,28,0,de,2022-04-29T08:58:48.000Z,1519964403730460672,1285143584086384641,['ÖPNV rad'],0,2022-04-29,"Klimaneutral, umweltfreundlich, sozial gerecht: Am 08. Mai nehmen wir die #Verkehrswende selbst in die Hand. Ob zu Fuß, auf dem Rad oder per ÖPNV - kommt nach Düsseldorf und setzt mit uns ein starkes Signal für die #ltwnrw22!
+Infos &amp; Updates:  "
+895,"@Aliverable @vecci2000 @DashcamLeipzig Mich könntest du überzeugen, aber auch andere? Ich habe Jobs und Wohnorte immer so gewählt dass ich relativ bequem mit Rad/ÖPNV zum Ziel komme. Die Tankpreise und Verkehrswende bringen gerade den anderen Probleme …
+Da muss ein Umdenken stattfinden",1519996563975819264,0,0,0,0,de,2022-04-29T11:06:35.000Z,1519049499930505216,177920327,['ÖPNV rad'],0,2022-04-29,"@Aliverable @vecci2000 @DashcamLeipzig Mich könntest du überzeugen, aber auch andere? Ich habe Jobs und Wohnorte immer so gewählt dass ich relativ bequem mit Rad/ÖPNV zum Ziel komme. Die Tankpreise und Verkehrswende bringen gerade den anderen Probleme …
+Da muss ein Umdenken stattfinden"
+1268,"Stand der Diskussion #Verkehrswende auf Facebook: Post des MDR, der Platzbedarf von Auto mit Bus oder Fahrrad vergleicht (Transport 72 Personen).
 
-220 Stunden im Jahr. 27.5 Arbeitstage. Ein Jahresurlaub.
+70% Lächerlichsmileys als Reaktion.
+Von Facebook gewählter populärster Kommentar: Wer wird Steuern zahlen, wenn nicht Autofahrer?",1520454024864186371,0,0,1,0,de,2022-04-30T17:24:22.000Z,1520454024864186371,23937011,['Bus Fahrrad'],0,2022-04-30,"Stand der Diskussion #Verkehrswende auf Facebook: Post des MDR, der Platzbedarf von Auto mit Bus oder Fahrrad vergleicht (Transport 72 Personen).
 
-Beim Kundenbesuch ähnlich.
-Einzig nach Berlin ist Zug vs Auto/Flug annähernd vergleichbar.",1523609844401336320,0,2,2,0,de,2022-05-09T10:24:28.000Z,1523590433409888258,47090838,"['Zug Fahrrad', 'Zug Fahrrad']",0,2022-05-09
-3151,"@RadlerInWI @joerg_spengler @welt @kkklawitter Du scheinst nicht zu verstehen? Ich freue mich, dass es für dich möglich ist, ohne Auto auszukommen. Es gibt aber durchaus auch Menschen, die einen Arbeitsweg von 50km und mehr haben, vielleicht auch Kinder. Ganz ehrlich, bevor ich mich da aufs Rad oder in die Bahn setze,",1523751696072994816,0,1,0,0,de,2022-05-09T19:48:08.000Z,1523520384074928129,1277269119012872193,['bahn rad'],0,2022-05-09
-3841,"@hansulrich Mein Arbeitsweg bestätigt das. 
-7km Rad über Feldwege: 25min; 0€
-6km Moped über Hauptstraße: 18min; ~10€/2Wochen
-2 Haltestellen S-Bahn + Bus: 50min; 6,40€/Tag
-Dazu kommen natürlich Ausfälle, Verspätungen und allgemeines Chaos.",1524418949752004609,0,1,6,0,de,2022-05-11T15:59:34.000Z,1524398646967554050,978595113126506496,['Bus rad'],0,2022-05-11
-4683,"@MonikaHerrmann1 @DB_Bahn @Wissing @BMDV_bund @fdp Andere Variante: abschließbare Fahrrad Parkmöglichkeiten an jedem Bahnhof. dann zwei Fahrräder pro Person für Arbeitsweg : eins für den Weg zur Bahn, eins für den Weg von der Bahn zur Arbeit. Ziemlich unschlagbar.",1525459358959771651,0,0,0,0,de,2022-05-14T12:53:47.000Z,1525013937070161921,496071759,['bahn Fahrrad'],0,2022-05-14
-5749,"@PradaDr Ganz einfach.
+70% Lächerlichsmileys als Reaktion.
+Von Facebook gewählter populärster Kommentar: Wer wird Steuern zahlen, wenn nicht Autofahrer?"
+1545,"Warum ist die Verkehrspolitik in dieser Stadt so ÖPNV-feindlich? Und dann auch noch im Namen der „Verkehrswende“?
+Warum müssen wir uns rechtfertigen, wenn wir Verbesserungen für Fahrgäste an der Schönhauser Allee fordern? 
 
-Arbeitsweg mit Auto = 15 Minuten
-Arbeitsweg mit ÖPNV = 75 Minuten
-Arbeitsweg mit Fahrrad = 50 Minuten (und gefährlich wegen fehlender Radweg Infrastruktur)
+Es gibt nicht nur das Fahrrad. https://t.co/451mkiwYdL",1520663032879325188,1,0,6,0,de,2022-05-01T07:14:54.000Z,1520663032879325188,1097902027743600640,['ÖPNV Fahrrad'],0,2022-05-01,"Warum ist die Verkehrspolitik in dieser Stadt so ÖPNV-feindlich? Und dann auch noch im Namen der „Verkehrswende“?
+Warum müssen wir uns rechtfertigen, wenn wir Verbesserungen für Fahrgäste an der Schönhauser Allee fordern? 
 
-Mobilität im ländlichen Raum eben ...",1527155664556007424,0,1,2,0,de,2022-05-19T05:14:18.000Z,1526873344871628800,1227538699262529536,['ÖPNV Fahrrad'],0,2022-05-19
-5804,"@d4_fishman @Ruediger_Krause @Kematef @Hornschild @Wissing Musst schon richtig hinschauen, Regelmobilität habe ich geschrieben. Wenn man jeden Arbeitstag das Auto benutzen *muß*, ist da was schief gelaufen. Der tägliche, regelmäßige Arbeitsweg sollte mit ÖPNV oder Fahrrad zu bewältigen sein, auch aus Gründen der Arbeitsfähigkeit.",1527238891178283008,0,2,1,0,de,2022-05-19T10:45:01.000Z,1525755730732666882,3302817737,['ÖPNV Fahrrad'],0,2022-05-19
-5841,"@A_Christofori @oekomobil Bekannte mit Auto (Arbeitsweg) und Fahrrad (vor Ort Einkauf usw.) fangen jetzt an nachzuschauen, wo man am WE mit Bus und Bahn in der Region überall hinkommt und ob man das Fahrrad mitnehmen kann. Zudem hört man, sind vermehrt Besuche zur Familie mit dem #9EuroTicket geplant.",1527273508547567620,0,2,1,0,de,2022-05-19T13:02:34.000Z,1525736444916121600,127538973,"['Bus Fahrrad', 'bahn Fahrrad']",0,2022-05-19
-6228,"@cachica @SteffenKrach Ohne Ihren Arbeitsweg zu kennen und daher schwer beurteilen zu können, manchmal ist auch ein Mix aus Fahrrad und ÖPNV schneller. Es gibt gerade eine E-Lastenrad Förderungen von der NBank",1527603489567916040,0,1,1,0,de,2022-05-20T10:53:48.000Z,1527587464344371201,1083196128,['ÖPNV Fahrrad'],0,2022-05-20
-6403,"@r41n8ow @ShwyneRei @_joni_0_5 @RealWuergi Nö denn die Verhältnisse MÜSSEN sich ändern. Die menschen MÜSSEN dann einen neuen, näheren oder ÖPNV&amp;Rad freundlichen Arbeitsweg/arbeitgeber nutzen/finden",1527706508355674112,0,3,1,0,de,2022-05-20T17:43:09.000Z,1527692386725416960,1417899056974770178,['ÖPNV rad'],0,2022-05-20
-6433,"@muellerschroeer Füße, Beine, Bus und Zug. 
+Es gibt nicht nur das Fahrrad. "
+1692,"keinen Parkplatz. Denkt jede Verkehrsplanung aus der Sicht von Fussgänger*innen, Fahrrad Fahrenden und Nutzer*innen des ÖPNV. 
+Wenn dann noch Platz und Geld übrig ist, kann da ja eine Tempo 30 Straße bleiben. ;)
+#Verkehrswende 
+#VisionZero",1520714066934837250,0,0,4,0,de,2022-05-01T10:37:41.000Z,1520714058382589953,2600594568,['ÖPNV Fahrrad'],0,2022-05-01,"keinen Parkplatz. Denkt jede Verkehrsplanung aus der Sicht von Fussgänger*innen, Fahrrad Fahrenden und Nutzer*innen des ÖPNV. 
+Wenn dann noch Platz und Geld übrig ist, kann da ja eine Tempo 30 Straße bleiben. ;)
+#Verkehrswende 
+#VisionZero"
+1715,"@HirutaBeniamin @jaettelik Dann müssen Konzepte dafür entwickelt werden. Wenn man #Verkehrswende respektive ÖPNV nachhaltig fördern möchte, muss auch #Fahrrad|mitnahme mitgedacht werden.",1520720433838014464,0,0,0,0,de,2022-05-01T11:02:59.000Z,1520717355776630784,46641337,['ÖPNV Fahrrad'],0,2022-05-01,"@HirutaBeniamin @jaettelik Dann müssen Konzepte dafür entwickelt werden. Wenn man #Verkehrswende respektive ÖPNV nachhaltig fördern möchte, muss auch #Fahrrad|mitnahme mitgedacht werden."
+1763,"Der Radler-Stammtisch Marl findet heute nicht statt. Für alle, die sich für die große Fahrrad-Sternfahrt am Sonntag zum Landtag interessieren, gibts Idie Treffpunkte für die Zubringer aus Marl / Dorsten / RE Herten unter https://t.co/DjCy8zmVGT #VerkehrswendeJetztNRW",1521378030492569601,0,0,3,0,de,2022-05-03T06:36:02.000Z,1521378030492569601,1260281623,['RE Fahrrad'],0,2022-05-03,"Der Radler-Stammtisch Marl findet heute nicht statt. Für alle, die sich für die große Fahrrad-Sternfahrt am Sonntag zum Landtag interessieren, gibts Idie Treffpunkte für die Zubringer aus Marl / Dorsten / RE Herten unter  #VerkehrswendeJetztNRW"
+1867,"@Martin56357139 Dann müssen mehr Züge her. Mit dem eigenen Velo zur Bahn, Hauptstrecke fahren, Velo von der Bahn zu meinem Zielort ist schnell, praktisch und essentieller Bestandteil des Modal Split, den wir für die Verkehrswende brauchen. Das einzuschränken ist kompletter Unfug.",1521786929813073920,0,0,2,0,de,2022-05-04T09:40:52.000Z,1521693409362292736,1028539388186247168,['bahn velo'],0,2022-05-04,"@Martin56357139 Dann müssen mehr Züge her. Mit dem eigenen Velo zur Bahn, Hauptstrecke fahren, Velo von der Bahn zu meinem Zielort ist schnell, praktisch und essentieller Bestandteil des Modal Split, den wir für die Verkehrswende brauchen. Das einzuschränken ist kompletter Unfug."
+1872,"@Martin56357139 @ZDFheute Pack dichan die Stirn. Millionen pendeln aktuell mit Fahrrad und Bahn. Die können nicht 3Monate Urlaub nehmen wenn sie das Bike nicht mitnehmen dürfen. Also wenn eher die zusätzlichen 9Euro Fahrer draussen lassen aber keine Einschränkungen für Abo Inhaber!
+#proBahn
+#Verkehrswende",1521800349656436737,0,0,0,0,de,2022-05-04T10:34:11.000Z,1521693409362292736,2791876688,['bahn bike'],0,2022-05-04,"@Martin56357139 @ZDFheute Pack dichan die Stirn. Millionen pendeln aktuell mit Fahrrad und Bahn. Die können nicht 3Monate Urlaub nehmen wenn sie das Bike nicht mitnehmen dürfen. Also wenn eher die zusätzlichen 9Euro Fahrer draussen lassen aber keine Einschränkungen für Abo Inhaber!
+#proBahn
+#Verkehrswende"
+2067,"@JuStPankow @fussverkehr_de @ADFC_Berlin @radpankow Wir erwarten, dass die Belange der Tram-Fahrgäste endlich berücksichtigt werden.
+Also kein weiteres Ausbremsen der Tram im Namen einer einseitigen Verkehrswende ausschließlich für das Fahrrad und barrierefreier &amp; gesetzeskonformer Umbau der Tram-Haltestellen.",1522474902791630849,0,1,0,0,de,2022-05-06T07:14:37.000Z,1522280210191822849,1097902027743600640,['Tram Fahrrad'],0,2022-05-06,"@JuStPankow @fussverkehr_de @ADFC_Berlin @radpankow Wir erwarten, dass die Belange der Tram-Fahrgäste endlich berücksichtigt werden.
+Also kein weiteres Ausbremsen der Tram im Namen einer einseitigen Verkehrswende ausschließlich für das Fahrrad und barrierefreier &amp; gesetzeskonformer Umbau der Tram-Haltestellen."
+2114,@DB_Bahn Ab wie viel Likes kann ich Problemlos mein Fahrrad im ICE mitnehmen? #Verkehrswende,1522565429226614784,0,0,36,0,de,2022-05-06T13:14:20.000Z,1522484095883919360,1359846056,['ICE Fahrrad'],0,2022-05-06,@DB_Bahn Ab wie viel Likes kann ich Problemlos mein Fahrrad im ICE mitnehmen? #Verkehrswende
+2191,"https://t.co/DEvoLTYwGn
+8.5.22 ab 12 Uhr nahe Düsseldorf Hbf, ab 14 Uhr am Landtag Demo, Kundgebung Infostände für eine Verkehrswende Landtagswahl 2022 Nordrhein Westfalen Die Basis ÖDP CDU SPD FDP Grüne Linke Eisenbahn ÖPNV Fahrrad Fußgänger Straßenbahn Linienbus ICE Fernbus",1522697074810228738,0,0,0,0,de,2022-05-06T21:57:27.000Z,1522697074810228738,107792463,"['Straßenbahn Fahrrad', 'Fernbus Fahrrad', 'ICE Fahrrad']",0,2022-05-06,"
+8.5.22 ab 12 Uhr nahe Düsseldorf Hbf, ab 14 Uhr am Landtag Demo, Kundgebung Infostände für eine Verkehrswende Landtagswahl 2022 Nordrhein Westfalen Die Basis ÖDP CDU SPD FDP Grüne Linke Eisenbahn ÖPNV Fahrrad Fußgänger Straßenbahn Linienbus ICE Fernbus"
+2436,"Mit dem Fahrrad zum Bahnhof, jetzt auf dem Weg im Zug nach Düsseldorf. Dann geht es bei der 5nach12 Demo mit @fussverkehr_de zum Landtag. Ich demonstriere, damit die nächste Landesregierung endlich Verkehrspolitik für alle Menschen macht! #VerkehrswendeJetztNRW https://t.co/Ce7isBSeC4",1523216050447425536,15,7,187,0,de,2022-05-08T08:19:41.000Z,1523216050447425536,74686295,['Zug Fahrrad'],0,2022-05-08,"Mit dem Fahrrad zum Bahnhof, jetzt auf dem Weg im Zug nach Düsseldorf. Dann geht es bei der 5nach12 Demo mit @fussverkehr_de zum Landtag. Ich demonstriere, damit die nächste Landesregierung endlich Verkehrspolitik für alle Menschen macht! #VerkehrswendeJetztNRW "
+2450,"In Gütersloh ist Verstärkung heute Morgen in den Bus gestiegen - ab Wuppertal werden sie mit dem Fahrrad gemeinsam mit den andren Zubringern aus z.B. Dortmund, Hilden, Erkrath Richtung Düsseldorf fahren. Das Ziel: Die #VerkehrswendeJetztNRW am Landtag in Düsseldorf. https://t.co/7O5z9hMK66",1523225178968588288,3,0,21,0,de,2022-05-08T08:55:57.000Z,1523225178968588288,4782357615,['Bus Fahrrad'],0,2022-05-08,"In Gütersloh ist Verstärkung heute Morgen in den Bus gestiegen - ab Wuppertal werden sie mit dem Fahrrad gemeinsam mit den andren Zubringern aus z.B. Dortmund, Hilden, Erkrath Richtung Düsseldorf fahren. Das Ziel: Die #VerkehrswendeJetztNRW am Landtag in Düsseldorf. "
+2455,Auf dem Weg zur Demo und Fahrrad-Sternfahrt nach Düsseldorf (erste Etappe mit dem Zug). Seid dabei! #VerkehrswendeJetztNRW https://t.co/DgBxS0dPUt,1523230312129785856,0,0,3,0,de,2022-05-08T09:16:21.000Z,1523230312129785856,1149641281028665344,"['Zug Fahrrad', 'Zug Fahrrad']",0,2022-05-08,Auf dem Weg zur Demo und Fahrrad-Sternfahrt nach Düsseldorf (erste Etappe mit dem Zug). Seid dabei! #VerkehrswendeJetztNRW 
+2467,"Mit einer Sternfahrt mit Fahrrad, Bus &amp; Bahn und einer Großdemo, mit Menschen aus allen Ecken von #NRW, machen wir heute klar: Die nächste Landesregierung muss die #Verkehrswende endlich anpacken! #NRWWahl2022
+#VerkehrswendejetztNRW https://t.co/BhFrwHTaXY",1523245340618629120,0,0,2,0,de,2022-05-08T10:16:04.000Z,1523245340618629120,1000471949812879361,"['Bus Fahrrad', 'bahn Fahrrad']",0,2022-05-08,"Mit einer Sternfahrt mit Fahrrad, Bus &amp; Bahn und einer Großdemo, mit Menschen aus allen Ecken von #NRW, machen wir heute klar: Die nächste Landesregierung muss die #Verkehrswende endlich anpacken! #NRWWahl2022
+#VerkehrswendejetztNRW "
+2508,"Über 9 (!) Milliarden haben wir seit Kriegsbeginn für Russlands fossile Energien gezahlt. 💰🙄
 
-Schulweg: 90 Minuten (Rad, Bus, Füße)
-Arbeitsweg: 30 Minuten (12km mit dem Rad)
+Was wir gegen fossilen Irrsinn tun können: Mehr Rad, Bahn &amp; Bus. 👏
 
-Im Notfall habe ich mir ein Auto geliehen oder eine Mitfahrgelegenheit organisiert.",1527733872426991616,0,1,3,0,de,2022-05-20T19:31:53.000Z,1527712203071229952,269700478,"['Zug rad', 'Bus rad']",0,2022-05-20
+Dafür sind am Sonntag vor der NRW-Wahl 5.000 Menschen auf der Straße: Raus aus Putins Öl – #VerkehrswendeJetztNRW! https://t.co/OqRi413ucb",1523291145513672705,13,4,49,1,de,2022-05-08T13:18:05.000Z,1523291145513672705,14717887,['Bus rad'],0,2022-05-08,"Über 9 (!) Milliarden haben wir seit Kriegsbeginn für Russlands fossile Energien gezahlt. 💰🙄
+
+Was wir gegen fossilen Irrsinn tun können: Mehr Rad, Bahn &amp; Bus. 👏
+
+Dafür sind am Sonntag vor der NRW-Wahl 5.000 Menschen auf der Straße: Raus aus Putins Öl – #VerkehrswendeJetztNRW! "
+2551,"Yeah! Gemeinsam mit 5.000 Menschen haben wir in #Düsseldorf eine Woche vor der #Landtagswahl #NRW klar gemacht: Höchste Zeit, dem Rad- und Fußverkehr, sowie ÖPNV endlich Vorrang vor dem KFZ zu geben!💚#VerkehrswendeJetztNRW https://t.co/q6weYwBQyU",1523320888334385152,15,4,74,0,de,2022-05-08T15:16:16.000Z,1523320888334385152,18585097,['ÖPNV rad'],0,2022-05-08,"Yeah! Gemeinsam mit 5.000 Menschen haben wir in #Düsseldorf eine Woche vor der #Landtagswahl #NRW klar gemacht: Höchste Zeit, dem Rad- und Fußverkehr, sowie ÖPNV endlich Vorrang vor dem KFZ zu geben!💚#VerkehrswendeJetztNRW "
+2552,"Ihr wart super, dickes Danke an alle die heute bei der #VerkehrswendeJetztNRW-Demo dabei waren, zu Fuß, mit Bus&amp;Bahn oder dem Fahrrad ..und ein ganz fettes Herz ❤️ für alle Unterstützer*innen &amp; Akteur*innen im Trägerkreis. Es war eine super Zeit mit euch! https://t.co/CkgJj9VLb8",1523321044164960263,4,0,16,0,de,2022-05-08T15:16:53.000Z,1523321044164960263,2158810152,"['Bus Fahrrad', 'bahn Fahrrad']",0,2022-05-08,"Ihr wart super, dickes Danke an alle die heute bei der #VerkehrswendeJetztNRW-Demo dabei waren, zu Fuß, mit Bus&amp;Bahn oder dem Fahrrad ..und ein ganz fettes Herz ❤️ für alle Unterstützer*innen &amp; Akteur*innen im Trägerkreis. Es war eine super Zeit mit euch! "
+2582,"Sie wünscht sich von allen Menschen, dass sie lauter werden für eine echte Verkehrswende und bezahlbarem Öpnv.
+
+#verkehrswende #autokorrektur #auto #mobility #mobilität #verkehr #fahrrad #klapprad #stadt #öpnv #bus #zukunft #klima #klimakrise #verkehrsraum",1523343320851787776,2,0,4,0,de,2022-05-08T16:45:24.000Z,1523343140786098176,1007232763,['Bus Fahrrad'],0,2022-05-08,"Sie wünscht sich von allen Menschen, dass sie lauter werden für eine echte Verkehrswende und bezahlbarem Öpnv.
+
+#verkehrswende #autokorrektur #auto #mobility #mobilität #verkehr #fahrrad #klapprad #stadt #öpnv #bus #zukunft #klima #klimakrise #verkehrsraum"
+2637,"„Nicht mehr tanken, sondern laden? Mehr pflanzliche statt tierische Produkte essen? Elektrofahrrad statt Auto? ICE statt Flugzeug? Manches kostet nicht einmal Geld.“ Raus aus der Komfortzone und #Klimaschutz und #Verkehrswende endlich anpacken! https://t.co/B3isG1xTOb",1523389193996496896,8,0,41,0,de,2022-05-08T19:47:41.000Z,1523389193996496896,854408773875716096,"['ÖPNV Elektrofahrrad', 'ICE Elektrofahrrad', 'ÖPNV Elektrofahrrad', 'ICE Elektrofahrrad']",0,2022-05-08,"„Nicht mehr tanken, sondern laden? Mehr pflanzliche statt tierische Produkte essen? Elektrofahrrad statt Auto? ICE statt Flugzeug? Manches kostet nicht einmal Geld.“ Raus aus der Komfortzone und #Klimaschutz und #Verkehrswende endlich anpacken! "
+2661,"Ich würde gerne mit dem eBike zur Arbeit fahren, müsste für einen größeren Abschnitt aber die S-Bahn nehmen. Und ich steige einfach nicht durch, welche Tickets ich brauche und wieso ich anscheinend mehrere benötige. So wird das nichts, @DB_Bahn  und @uestra #gvh #Verkehrswende",1523408863562964992,0,3,2,0,de,2022-05-08T21:05:51.000Z,1523408863562964992,456997549,"['bahn ebike', 'bahn ebike']",0,2022-05-08,"Ich würde gerne mit dem eBike zur Arbeit fahren, müsste für einen größeren Abschnitt aber die S-Bahn nehmen. Und ich steige einfach nicht durch, welche Tickets ich brauche und wieso ich anscheinend mehrere benötige. So wird das nichts, @DB_Bahn  und @uestra #gvh #Verkehrswende"
+2693,"@KlimaVorAcht Irgendwie konnte ich in dem Artikel nur wenig zu
+Bahnausbau lesen. Hab ich da was verpasst?!
+@BMDV_bund:  Eine #Verkehrswende braucht das Land!
+Stärken sie
+#Bahn
+#Bus
+#Rad
+#Fuss
+Infrastruktur!
+#Tempolimit auf Autobahnen!
+#Weniger Autos u. LKWs!
+Das sind die großen Stellschrauben!",1523439211633729536,0,0,10,0,de,2022-05-08T23:06:26.000Z,1523361543533961376,1196134327802908677,"['Bus rad', 'bahn rad']",0,2022-05-08,"@KlimaVorAcht Irgendwie konnte ich in dem Artikel nur wenig zu
+Bahnausbau lesen. Hab ich da was verpasst?!
+@BMDV_bund:  Eine #Verkehrswende braucht das Land!
+Stärken sie
+#Bahn
+#Bus
+#Rad
+#Fuss
+Infrastruktur!
+#Tempolimit auf Autobahnen!
+#Weniger Autos u. LKWs!
+Das sind die großen Stellschrauben!"
+2762,"Sehr geehrter Herr @Wissing , es wäre so viel einfacher, die Antriebswende durchzusetzen. Einfach ein Zulassungsverbot für Verbrennungsmotoren ab 2027. Und die 70 Mrd dann für die Verkehrswende einsetzen. Bahn, Bus, Rad- und Fußverkehr mit der Summe fördern. Damit wäre ein...1/2",1523550467267039232,0,1,0,0,de,2022-05-09T06:28:32.000Z,1523550467267039232,1416763290106187776,"['Bus rad', 'bahn rad']",0,2022-05-09,"Sehr geehrter Herr @Wissing , es wäre so viel einfacher, die Antriebswende durchzusetzen. Einfach ein Zulassungsverbot für Verbrennungsmotoren ab 2027. Und die 70 Mrd dann für die Verkehrswende einsetzen. Bahn, Bus, Rad- und Fußverkehr mit der Summe fördern. Damit wäre ein...1/2"
+2763,"#Wissing will die #Verkehrswende schaffen, indem wir NOCH MEHR Autos kaufen, aber halt mit anderem Antrieb. Wo ist die Förderung von ÖPNV, Bahn, Fahrrad etc?? Die #FDP hat nichts begriffen. #Autokorrektur
+https://t.co/QRlcKHlGDN",1523550783018438658,0,3,7,0,de,2022-05-09T06:29:47.000Z,1523550783018438658,1506990422094196741,['bahn Fahrrad'],0,2022-05-09,"#Wissing will die #Verkehrswende schaffen, indem wir NOCH MEHR Autos kaufen, aber halt mit anderem Antrieb. Wo ist die Förderung von ÖPNV, Bahn, Fahrrad etc?? Die #FDP hat nichts begriffen. #Autokorrektur
+"
+2770,"War ein toller Tag gestern in #Düsseldorf. Mit so vielen Menschen die Mobilität ohne #Auto gefeiert. Zu Fuß, mit dem Rad, mit der Bahn. #VerkehrswendeJetztNRW https://t.co/g1UnxHWg10",1523553560952139781,0,0,21,0,de,2022-05-09T06:40:49.000Z,1523553560952139781,830456236873285632,['bahn rad'],0,2022-05-09,"War ein toller Tag gestern in #Düsseldorf. Mit so vielen Menschen die Mobilität ohne #Auto gefeiert. Zu Fuß, mit dem Rad, mit der Bahn. #VerkehrswendeJetztNRW "
+2792,"@BlumeEvolution Mich derzeit für die @VerkehrswendeHE einsetzen, für bessere Bedingungen für Menschen, die zu Fuß, mit dem Rad oder in Bus und Bahn unterwegs sein möchten.
+https://t.co/RnD4DbXQKO sammelt Unterschriften für ein #Hessen Volksbegehren #VerkehrswendeHE https://t.co/0RDljja7M0",1523565680758468610,0,0,2,0,de,2022-05-09T07:28:59.000Z,1523524160307224576,783731285747462144,"['Bus rad', 'bahn rad']",0,2022-05-09,"@BlumeEvolution Mich derzeit für die @VerkehrswendeHE einsetzen, für bessere Bedingungen für Menschen, die zu Fuß, mit dem Rad oder in Bus und Bahn unterwegs sein möchten.
+ sammelt Unterschriften für ein #Hessen Volksbegehren #VerkehrswendeHE "
+2850,"🚲 🚊 Wie bewegst du dich fort? Fährst du Fahrrad, Bahn oder hast du sogar ein E-Auto? 
+
+Wie kann die deutsche #Verkehrswende gelingen? Welche Ideen es gibt, erfährst du hier. 👇 
+
+#Klimapolitik #Mobilität
+https://t.co/0dEhWhNNnL",1523603689080041474,0,0,0,0,de,2022-05-09T10:00:01.000Z,1523603689080041474,92955419,['bahn Fahrrad'],0,2022-05-09,"🚲 🚊 Wie bewegst du dich fort? Fährst du Fahrrad, Bahn oder hast du sogar ein E-Auto? 
+
+Wie kann die deutsche #Verkehrswende gelingen? Welche Ideen es gibt, erfährst du hier. 👇 
+
+#Klimapolitik #Mobilität
+"
+2855,"@BoxbergConny Verkehrswende bedeutet,möglichst viele Wege, die wir heute mit dem Auto zurücklegen, zukünftig anders zurückzulegen (z. B. ÖPNV, Rad- und Fußverkehr).Die Alternativen müssen dabei so attraktiv sein, dass man nichts vermisst. Der restliche Autoverkehr wird elektrifiziert (E-Auto).",1523609202131824642,0,1,0,0,de,2022-05-09T10:21:55.000Z,1523558059053789184,1312346277686980608,['ÖPNV rad'],0,2022-05-09,"@BoxbergConny Verkehrswende bedeutet,möglichst viele Wege, die wir heute mit dem Auto zurücklegen, zukünftig anders zurückzulegen (z. B. ÖPNV, Rad- und Fußverkehr).Die Alternativen müssen dabei so attraktiv sein, dass man nichts vermisst. Der restliche Autoverkehr wird elektrifiziert (E-Auto)."
+2862,"Für die notwendigen Investitionen in die Schiene hat der Verkehrsminister dann kein Geld mehr übrig? Das Ministerium ist und bleibt ein #Autoministerium! Schiene, Bus, Fahrrad &amp; Fußgänger sind nur ein lästiges Übel. So wird die #Verkehrswende weiter aktiv von der FDP verhindert!",1523611837560160259,0,1,0,0,de,2022-05-09T10:32:24.000Z,1523611831256121345,1156512428764618752,['Bus Fahrrad'],0,2022-05-09,"Für die notwendigen Investitionen in die Schiene hat der Verkehrsminister dann kein Geld mehr übrig? Das Ministerium ist und bleibt ein #Autoministerium! Schiene, Bus, Fahrrad &amp; Fußgänger sind nur ein lästiges Übel. So wird die #Verkehrswende weiter aktiv von der FDP verhindert!"
+2883,"#Verkehrswende ist keine Antriebswende. Verkehrswende ist, wenn jede*r mit Fahrrad, zu Fuß, Zug und ÖPNV genauso komfortabel und sicher mobil ist wie mit dem eigenen Auto. Nur dann gibt es eine echte Wahlfreiheit der Verkehrsmittel. #eAuto 
+
+https://t.co/dovbieXDSY",1523625573829988352,7,5,49,0,de,2022-05-09T11:26:59.000Z,1523625573829988352,3065697904,"['Zug Fahrrad', 'Zug Fahrrad']",0,2022-05-09,"#Verkehrswende ist keine Antriebswende. Verkehrswende ist, wenn jede*r mit Fahrrad, zu Fuß, Zug und ÖPNV genauso komfortabel und sicher mobil ist wie mit dem eigenen Auto. Nur dann gibt es eine echte Wahlfreiheit der Verkehrsmittel. #eAuto 
+
+"
+2910,"@SubNat69 Es wäre sinnvoller zu fördern, wenn Menschen auf's Auto verzichten und ÖPNV und Rad nutzen. Ob Verbrenner oder E-Auto, die Farzeuge nehmen den gleichen Platz ein und verursache den Verkehrskollaps.
+
+Weniger Fahrzeuge müssen es werden!
+
+#Verkehrswende #Autokorrektur",1523639907746725889,0,0,3,0,de,2022-05-09T12:23:56.000Z,1523625700661424128,1159750763347886080,['ÖPNV rad'],0,2022-05-09,"@SubNat69 Es wäre sinnvoller zu fördern, wenn Menschen auf's Auto verzichten und ÖPNV und Rad nutzen. Ob Verbrenner oder E-Auto, die Farzeuge nehmen den gleichen Platz ein und verursache den Verkehrskollaps.
+
+Weniger Fahrzeuge müssen es werden!
+
+#Verkehrswende #Autokorrektur"
+2925,"#VerkehrswendeJetztNRW
+Ein dicker fetter Dank, an alle, die gestern mit dabei waren - zu Fuß, mit Bus &amp; Bahn oder dem Fahrrad - wir haben ein kleines Wunder geschafft, trotz Corona, Ukrainekrieg und Dank der Mütter, die auch am Muttertag mit dabei waren.
+https://t.co/ZyuhLvO7o4 https://t.co/LYXaatKFqr",1523646551599423489,3,0,13,0,de,2022-05-09T12:50:20.000Z,1523646551599423489,2158810152,"['Bus Fahrrad', 'bahn Fahrrad']",0,2022-05-09,"#VerkehrswendeJetztNRW
+Ein dicker fetter Dank, an alle, die gestern mit dabei waren - zu Fuß, mit Bus &amp; Bahn oder dem Fahrrad - wir haben ein kleines Wunder geschafft, trotz Corona, Ukrainekrieg und Dank der Mütter, die auch am Muttertag mit dabei waren.
+ "
+3204,"@Wissing Er will aber seiner #Klientel und der #Autoindustrie zu Diensten sein. Eine echte Verkehrswende mit Bus, Bahn, Fahrrad liegt ihm nicht am Herzen!",1523767973353521152,0,0,0,0,de,2022-05-09T20:52:49.000Z,1523694814415319041,1498725701096251394,"['Bus Fahrrad', 'bahn Fahrrad', 'Bus Fahrrad']",0,2022-05-09,"@Wissing Er will aber seiner #Klientel und der #Autoindustrie zu Diensten sein. Eine echte Verkehrswende mit Bus, Bahn, Fahrrad liegt ihm nicht am Herzen!"
+3365,"Hey @Wissing, wie wäre es mit mehr Förderung im Bereich #bahn #fahrrad #fuss #oepnv #lieferverkehr #letztemeile #neueIdeen #alternative #konzepte
+
+Ich bin auch #Autofahrer, würde mich über #alternativen freuen
+#Verkehrswende @ADAC @FahrradClub @VCDeV @BMDV_bund @fussverkehr_de https://t.co/eCFXlfxGsQ",1523828124345118720,0,0,0,0,de,2022-05-10T00:51:50.000Z,1523828124345118720,1138110594169606147,"['bahn Fahrrad', 'ÖPNV Fahrrad']",0,2022-05-10,"Hey @Wissing, wie wäre es mit mehr Förderung im Bereich #bahn #fahrrad #fuss #oepnv #lieferverkehr #letztemeile #neueIdeen #alternative #konzepte
+
+Ich bin auch #Autofahrer, würde mich über #alternativen freuen
+#Verkehrswende @ADAC @FahrradClub @VCDeV @BMDV_bund @fussverkehr_de "
+3620,"Join us! Wir diskutieren u.a. mit Vertreter:innen von @psharedmobility, @tier_mobility und der @RegionHannover über Regulierung und Förderung von Bike- &amp; E-Scooter-Sharing, Nutzungspotenziale außerhalb von Großstädten und Integration in den #ÖPNV. #SharedMobility #Verkehrswende https://t.co/dACNBwOGuk",1523963841494884352,0,0,4,0,de,2022-05-10T09:51:08.000Z,1523963841494884352,1234430275129683968,['ÖPNV bike'],0,2022-05-10,"Join us! Wir diskutieren u.a. mit Vertreter:innen von @psharedmobility, @tier_mobility und der @RegionHannover über Regulierung und Förderung von Bike- &amp; E-Scooter-Sharing, Nutzungspotenziale außerhalb von Großstädten und Integration in den #ÖPNV. #SharedMobility #Verkehrswende "
+3906,"#ltwnrw22
+Wählt am Sonntag Umwege Zu Fuß, mit Fahrrad, Bus und Bahn ab - wählt die #VerkehrswendeJetztNRW. https://t.co/w4GWtQGckt",1524610714803003392,7,0,13,0,de,2022-05-12T04:41:34.000Z,1524610714803003392,2158810152,['Bus Fahrrad'],0,2022-05-12,"#ltwnrw22
+Wählt am Sonntag Umwege Zu Fuß, mit Fahrrad, Bus und Bahn ab - wählt die #VerkehrswendeJetztNRW. "
+3936,"Wenn politisch Verantwortliche den Willen haben, die #Verkehrswende voranzutreiben, entstehen an großen Bahnhöfen große Parkhäuser für Fahrräder. Zug und Rad ergänzen sich.
+Wie viele Fahrradparkplätze gibt es am Wiener Hauptbahnhof? Haben @fahrradwien oder @radlobby Zahlen dazu? https://t.co/FHqhpYQvtJ",1524664927260192773,1,1,10,0,de,2022-05-12T08:17:00.000Z,1524664927260192773,1412893679052894214,['Zug rad'],0,2022-05-12,"Wenn politisch Verantwortliche den Willen haben, die #Verkehrswende voranzutreiben, entstehen an großen Bahnhöfen große Parkhäuser für Fahrräder. Zug und Rad ergänzen sich.
+Wie viele Fahrradparkplätze gibt es am Wiener Hauptbahnhof? Haben @fahrradwien oder @radlobby Zahlen dazu? "
+3945,"#Klimaschutz wollen wir durch einen #Kohleausstieg 2030, CO2-Neutralität 2035 und Klimaneutralität 2040 schaffen. Also brauchen wir eine umfassende #Energiewende und eine #Verkehrswende zum Fahrrad und #ÖPNV. Autos sollen einen kleineren Teil des Verkehrs ausmachen. 
+3/4",1524671927079612416,2,1,18,0,de,2022-05-12T08:44:49.000Z,1524671922767806464,1466033572939247617,['ÖPNV Fahrrad'],0,2022-05-12,"#Klimaschutz wollen wir durch einen #Kohleausstieg 2030, CO2-Neutralität 2035 und Klimaneutralität 2040 schaffen. Also brauchen wir eine umfassende #Energiewende und eine #Verkehrswende zum Fahrrad und #ÖPNV. Autos sollen einen kleineren Teil des Verkehrs ausmachen. 
+3/4"
+3969,"@laura_wahl_ Und die meisten der restlichen 89% sind weiter überwiegend vom Auto abhängig während die 11% statt ÖPNV halt ein Ebike nutzen. 
+Für eine Verkehrswende muss da mehr passieren.",1524703375484502016,0,0,0,0,de,2022-05-12T10:49:46.000Z,1524629565536190464,1395652253231599621,['ÖPNV ebike'],0,2022-05-12,"@laura_wahl_ Und die meisten der restlichen 89% sind weiter überwiegend vom Auto abhängig während die 11% statt ÖPNV halt ein Ebike nutzen. 
+Für eine Verkehrswende muss da mehr passieren."
+3986,"Meine persönliche Verkehrswende: Am Dienstag hing ich mit dem Fahrrad in einer absurden Vollsperrung mitten im Wald, eingeklemmt zwischen BAB und Schienen. Und heute stand ich an derselben Stelle mit dem ICE im Stau (eingleisige Streckenführung). Mörfelden-Walldorf #bahn",1524727043484749826,1,1,0,0,de,2022-05-12T12:23:49.000Z,1524727043484749826,1030701,['ICE Fahrrad'],0,2022-05-12,"Meine persönliche Verkehrswende: Am Dienstag hing ich mit dem Fahrrad in einer absurden Vollsperrung mitten im Wald, eingeklemmt zwischen BAB und Schienen. Und heute stand ich an derselben Stelle mit dem ICE im Stau (eingleisige Streckenführung). Mörfelden-Walldorf #bahn"
+4077,"Je weniger Autos in der Innenstadt erlaubt sind, desto mehr Menschen werden zu Fuß, mit Bus, Bahn oder Rad unterwegs sein.
+#StädteFürMenschen #Verkehrswende  https://t.co/t1rmacGVME",1524834391746306048,17,5,130,0,de,2022-05-12T19:30:23.000Z,1524834391746306048,854408773875716096,['Bus rad'],0,2022-05-12,"Je weniger Autos in der Innenstadt erlaubt sind, desto mehr Menschen werden zu Fuß, mit Bus, Bahn oder Rad unterwegs sein.
+#StädteFürMenschen #Verkehrswende  "
+4200,"Nochmal zur Erinnerung: Kommt am 29.05. alle auf die Straße!
+Nein, nicht mit dem Auto - davon haben wir schon genug!
+Die Bonner Straßen sind für alle da: zu Fuß, mit dem Rad, mit Bus &amp; Bahn!
+#Verkehrswende #VerkehrswendeJetzt https://t.co/oIQM6EBnse",1525025468923224065,3,2,5,1,de,2022-05-13T08:09:40.000Z,1525025468923224065,1336235503742570497,['Bus rad'],0,2022-05-13,"Nochmal zur Erinnerung: Kommt am 29.05. alle auf die Straße!
+Nein, nicht mit dem Auto - davon haben wir schon genug!
+Die Bonner Straßen sind für alle da: zu Fuß, mit dem Rad, mit Bus &amp; Bahn!
+#Verkehrswende #VerkehrswendeJetzt "
+4232,"Keine Fahrradroute Verfügbar @apple #Maps Cycling 
+
+Fahrradrouten sind für Hamburg noch nicht verfügbar. Seriously?!
+
+#Verkehrswende 
+
+Auto Route ✅ ÖPNV Route ✅ Route zu Fuß ✅ Fahrrad Route ❌ https://t.co/Mdqq0Pq3HB",1525036532763066369,2,5,14,0,de,2022-05-13T08:53:37.000Z,1525036532763066369,2733431525,['ÖPNV Fahrrad'],0,2022-05-13,"Keine Fahrradroute Verfügbar @apple #Maps Cycling 
+
+Fahrradrouten sind für Hamburg noch nicht verfügbar. Seriously?!
+
+#Verkehrswende 
+
+Auto Route ✅ ÖPNV Route ✅ Route zu Fuß ✅ Fahrrad Route ❌ "
+4282,"@TransAlt #TransportationAlternatives hat einen wunderbaren Webauftritt der aufzeigt wie #Verkehrswende für ÖPNV, Fahrrad und Fussgänger funktioniert.
+
+#nyc25x25
+https://t.co/yFPBLNlYJa
+
+@MonikaHerrmann1 
+@jens_blume @radentscheid @BVG_Bus",1525067469186117633,0,0,2,0,de,2022-05-13T10:56:33.000Z,1525060821310750720,998893947714965506,"['Bus Fahrrad', 'ÖPNV Fahrrad']",0,2022-05-13,"@TransAlt #TransportationAlternatives hat einen wunderbaren Webauftritt der aufzeigt wie #Verkehrswende für ÖPNV, Fahrrad und Fussgänger funktioniert.
+
+#nyc25x25
+
+
+@MonikaHerrmann1 
+@jens_blume @radentscheid @BVG_Bus"
+4300,Die Verkehrswende muss den ÖPNV Ausbau wie auch immer beinhalten. Nicht alle können Fahrrad fahren. https://t.co/3mq7Qvf2er,1525077660933799937,0,2,5,0,de,2022-05-13T11:37:03.000Z,1525077660933799937,266468422,['ÖPNV Fahrrad'],0,2022-05-13,Die Verkehrswende muss den ÖPNV Ausbau wie auch immer beinhalten. Nicht alle können Fahrrad fahren. 
+4307,"Umfrage zu Fahrrad und #Bahn in Bayern.
+Interessierte bitte mitmachen!
+Gerne RT!
+https://t.co/m4Afv2SMMU
+
+#Verkehrswende",1525088085683408896,5,0,5,0,de,2022-05-13T12:18:29.000Z,1525088085683408896,850720269878652928,['bahn Fahrrad'],0,2022-05-13,"Umfrage zu Fahrrad und #Bahn in Bayern.
+Interessierte bitte mitmachen!
+Gerne RT!
+
+
+#Verkehrswende"
+4433,"@Wissing Moin! Gerade das erste mal ein Rad im Zug mitgenommen, wegen Verkehrswende, Sie wissen schon. Ist irgendwie etwas eng und dekadenten Reaktionszeiten der Bahn auf Änderungen des Bedarfs, dachte ich, dass ich mal bescheid sage, dass so ein halber Wagen sicher nicht....",1525174487032946689,0,0,0,0,de,2022-05-13T18:01:48.000Z,1525174487032946689,718462801208090625,"['Zug rad', 'bahn rad']",0,2022-05-13,"@Wissing Moin! Gerade das erste mal ein Rad im Zug mitgenommen, wegen Verkehrswende, Sie wissen schon. Ist irgendwie etwas eng und dekadenten Reaktionszeiten der Bahn auf Änderungen des Bedarfs, dachte ich, dass ich mal bescheid sage, dass so ein halber Wagen sicher nicht...."
+4572,"@Tagesspiegel @PRO_BAHN Das heißt, im Winter kriegt man 1 Handvoll Pendler mit Rad schon unter, aber im Sommer sagt man einfach 'Darauf ist die Bahn nicht vorbereitet, lauft halt einfach die paar Km, bevor / nachdem ihr mit dem Zug fahrt'? Großartige Verkehrswende. Und Leihräder sind fern von überall.",1525357873089363971,0,0,11,0,de,2022-05-14T06:10:31.000Z,1524977742239764481,104448881,"['Zug rad', 'bahn rad']",0,2022-05-14,"@Tagesspiegel @PRO_BAHN Das heißt, im Winter kriegt man 1 Handvoll Pendler mit Rad schon unter, aber im Sommer sagt man einfach 'Darauf ist die Bahn nicht vorbereitet, lauft halt einfach die paar Km, bevor / nachdem ihr mit dem Zug fahrt'? Großartige Verkehrswende. Und Leihräder sind fern von überall."
+4646,"Ha. Genau 0 Orte. Unser Ort ist nicht (mehr) angeschlossen an das Netz.
+7 km bis zum nächsten Bahnhof. Fahrrad doppelt so schnell wie der ÖPNV
+
+#Verkehrswende für mich eine der wichtigsten Punkte der nächsten Zeit.
+Das obwohl ich täglich im Schnitt 300km mit dem Auto fahren muss. https://t.co/Jy4fGyO1jB",1525423432434954242,0,0,0,0,de,2022-05-14T10:31:01.000Z,1525423432434954242,22346427,['ÖPNV Fahrrad'],0,2022-05-14,"Ha. Genau 0 Orte. Unser Ort ist nicht (mehr) angeschlossen an das Netz.
+7 km bis zum nächsten Bahnhof. Fahrrad doppelt so schnell wie der ÖPNV
+
+#Verkehrswende für mich eine der wichtigsten Punkte der nächsten Zeit.
+Das obwohl ich täglich im Schnitt 300km mit dem Auto fahren muss. "
+4728,"@BI_Kempen Die meisten Politiker*innen verstehen unter Verkehrswende, die Umstellung der 50 Mio. Autos auf E-Antrieb. 
+
+Sie haben nicht verstanden, daß wir zukünftig gerade die kurzen Wege z. B. mit ÖPNV, Rad- oder Fußverkehr zurücklegen müssen und hierfür viel mehr Geld investieren müssen!",1525514485447933953,0,0,0,0,de,2022-05-14T16:32:50.000Z,1525356741747261440,1312346277686980608,['ÖPNV rad'],0,2022-05-14,"@BI_Kempen Die meisten Politiker*innen verstehen unter Verkehrswende, die Umstellung der 50 Mio. Autos auf E-Antrieb. 
+
+Sie haben nicht verstanden, daß wir zukünftig gerade die kurzen Wege z. B. mit ÖPNV, Rad- oder Fußverkehr zurücklegen müssen und hierfür viel mehr Geld investieren müssen!"
+5210,"Die meisten Menschen kommen zu Fuß, per Rad und mit der Tram. Die Aufenthaltsqualität ist sehr gut und es gäbe noch mehr potenziall für die Innenstadt.
+#Verkehrswende #VisionZero",1525808258849587201,0,0,6,0,de,2022-05-15T12:00:11.000Z,1525808257104740352,991670698287431680,['Tram rad'],0,2022-05-15,"Die meisten Menschen kommen zu Fuß, per Rad und mit der Tram. Die Aufenthaltsqualität ist sehr gut und es gäbe noch mehr potenziall für die Innenstadt.
+#Verkehrswende #VisionZero"
+5418,"@VerkehrswendeDD Wahrscheinlich schon, die 3-4 Fahrten mit der Straßenbahn schafft man in den 3 Monaten irgendwie.
+Eine standardisierte Regelung zur Fahrradmitnahme (e.g. 2tes 9€-Ticket fürs Rad) hätte es aber deutlich attraktiver gemacht. Schade",1526437208290377729,0,0,1,0,de,2022-05-17T05:39:24.000Z,1526320595478224899,4773863217,['Straßenbahn rad'],0,2022-05-17,"@VerkehrswendeDD Wahrscheinlich schon, die 3-4 Fahrten mit der Straßenbahn schafft man in den 3 Monaten irgendwie.
+Eine standardisierte Regelung zur Fahrradmitnahme (e.g. 2tes 9€-Ticket fürs Rad) hätte es aber deutlich attraktiver gemacht. Schade"
+5564,"@echterwegeheld @davidleblanc13 Am Ende ist es immer so:
+
+Zu Fuß / mit dem Rad / ÖPNV &gt; E-Auto &gt; Verbrenner
+
+(Ich bin Verkehrswendeaktivist und will eine autofreie Innenstadt)",1526822556757524482,5,4,25,0,de,2022-05-18T07:10:39.000Z,1526564667585351686,2284854788,['ÖPNV rad'],0,2022-05-18,"@echterwegeheld @davidleblanc13 Am Ende ist es immer so:
+
+Zu Fuß / mit dem Rad / ÖPNV &gt; E-Auto &gt; Verbrenner
+
+(Ich bin Verkehrswendeaktivist und will eine autofreie Innenstadt)"
+5568,"@Moorsoldat123 Es geht dabei ja nicht um Klassenkampf, sondern um Verkehrswende und letztendlich Klimaschutz. 
+Da ist mir doch wurst ob der Angestellte oder Chef sinnfrei mitm Auto rumgondelt weil kein bock auf radl oder öpnv",1526828160175771649,0,1,0,0,de,2022-05-18T07:32:55.000Z,1526788413940285440,915925497833541633,['ÖPNV Radl'],0,2022-05-18,"@Moorsoldat123 Es geht dabei ja nicht um Klassenkampf, sondern um Verkehrswende und letztendlich Klimaschutz. 
+Da ist mir doch wurst ob der Angestellte oder Chef sinnfrei mitm Auto rumgondelt weil kein bock auf radl oder öpnv"
+5577,"@weblaie @s1rko87 @JKasek @chrismeissner @VerkehrswendeLE Abpollern nicht vorgesehen, gleichzeitig sollen ""alle Anstrengungen"" darauf abzielen, dass Menschen zu Fuß kommen, Rad fahren oder ÖPNV nutzen. ""Alle Anstrengungen"", kein Abpollern - wie jetzt?",1526836774655299584,0,1,3,0,de,2022-05-18T08:07:08.000Z,1526808090674352131,1448542660759851008,['ÖPNV rad'],0,2022-05-18,"@weblaie @s1rko87 @JKasek @chrismeissner @VerkehrswendeLE Abpollern nicht vorgesehen, gleichzeitig sollen ""alle Anstrengungen"" darauf abzielen, dass Menschen zu Fuß kommen, Rad fahren oder ÖPNV nutzen. ""Alle Anstrengungen"", kein Abpollern - wie jetzt?"
+5895,"Positiv: Überall #Radspuren gesichtet.
+Mein Eindruck: Die Radwegeplaner*innen waren richtig fleissig!
+Die Qualität kann ich vom Bus aus natürlich nicht beurteilen. Aber es hat sich einiges getan!
+#Verkehrswende #Fahrrad",1527323835875221511,0,0,0,0,de,2022-05-19T16:22:33.000Z,1527323835875221511,997547844583219201,['Bus Fahrrad'],0,2022-05-19,"Positiv: Überall #Radspuren gesichtet.
+Mein Eindruck: Die Radwegeplaner*innen waren richtig fleissig!
+Die Qualität kann ich vom Bus aus natürlich nicht beurteilen. Aber es hat sich einiges getan!
+#Verkehrswende #Fahrrad"
+6112,"Alle reden über die #Verkehrswende - wir tun was!
+
+Fuß - Rad - Bus - Bahn - Demo in #Bonn
+
+Mitmachen!
+Sonntag, 29.05.2022, um 14 Uhr im Bonner Hofgarten https://t.co/tH0VdIItd1",1527557536756408320,37,4,57,0,de,2022-05-20T07:51:12.000Z,1527557536756408320,1336235503742570497,"['Bus rad', 'bahn rad']",0,2022-05-20,"Alle reden über die #Verkehrswende - wir tun was!
+
+Fuß - Rad - Bus - Bahn - Demo in #Bonn
+
+Mitmachen!
+Sonntag, 29.05.2022, um 14 Uhr im Bonner Hofgarten "
+6249,"#BikeToWorkDay: Mit dem Rad zur Arbeit und mit der S-Bahn-München zurück. 💚🚲🚊
+#MdRzA #Verkehrswende https://t.co/T4TRgEh8g9",1527610932842618882,1,5,40,0,de,2022-05-20T11:23:22.000Z,1527610932842618882,854408773875716096,['bahn rad'],0,2022-05-20,"#BikeToWorkDay: Mit dem Rad zur Arbeit und mit der S-Bahn-München zurück. 💚🚲🚊
+#MdRzA #Verkehrswende "
+6448,"9 Euro Ticket
+""Autofahren muss durch höhere Parkgebühren unangenehmer gemacht, der ÖPNV konsequent weiter ausgebaut und Konzepte zu Rad- und Fußverkehr endlich umgesetzt werden.""
+#ÖPNV #Verkehrswende #Wissing 
+☘️🚴‍♂️🌻 Mehr Platz für Radfahrer 🌻🚴‍♂️☘️
+https://t.co/bE57exQQOu",1527739553368481795,0,0,0,0,de,2022-05-20T19:54:28.000Z,1527739553368481795,1177533937226268672,['ÖPNV rad'],0,2022-05-20,"9 Euro Ticket
+""Autofahren muss durch höhere Parkgebühren unangenehmer gemacht, der ÖPNV konsequent weiter ausgebaut und Konzepte zu Rad- und Fußverkehr endlich umgesetzt werden.""
+#ÖPNV #Verkehrswende #Wissing 
+☘️🚴‍♂️🌻 Mehr Platz für Radfahrer 🌻🚴‍♂️☘️
+"
+7404,"@AnnikaJoeres Wird jeder Sitzplatz auch einen Stellplatz fürs Fahrrad haben - oder wie im ICE: nur 4 für 400 Fahrgäste?🤨 Wenn, wollen mein Fahrrad und ich gemeinsam die dortigen Errungenschaften erleben. #WahreVerkehrswende",1529211954996432904,0,6,10,0,de,2022-05-24T21:25:16.000Z,1529125251577151488,1076922409876365313,['ICE Fahrrad'],0,2022-05-24,"@AnnikaJoeres Wird jeder Sitzplatz auch einen Stellplatz fürs Fahrrad haben - oder wie im ICE: nur 4 für 400 Fahrgäste?🤨 Wenn, wollen mein Fahrrad und ich gemeinsam die dortigen Errungenschaften erleben. #WahreVerkehrswende"
+7424,"80% der Autofahrer in den Ballungsräumen in Dtl. fahren aus Bequemlichkeit nicht Rad o. ÖPNV.
+Die #Medien beziehen nicht klare Position, sondern hinterfragen die Ausreden nicht.
+Das verhindert die Transformation und befeuert die Klimakatastrophe. #Verkehrswende #medienklimakrise",1529323010234191872,1,0,2,0,de,2022-05-25T04:46:33.000Z,1529323010234191872,1092675535690452992,['ÖPNV rad'],0,2022-05-25,"80% der Autofahrer in den Ballungsräumen in Dtl. fahren aus Bequemlichkeit nicht Rad o. ÖPNV.
+Die #Medien beziehen nicht klare Position, sondern hinterfragen die Ausreden nicht.
+Das verhindert die Transformation und befeuert die Klimakatastrophe. #Verkehrswende #medienklimakrise"
+7456,"@Storch_i Ich wünsche mir, dass das #9EuroTicket endlich den Startschuss zu einer echten Verkehrswende einläutet.
+Dass #Scheuer Fahrrad fährt ist in dem Zusammenhang in Ordnung. Wer will schon im Bus neben ihm sitzen?",1529361666974138368,0,0,0,0,de,2022-05-25T07:20:10.000Z,1529327504477016065,633004566,['Bus Fahrrad'],0,2022-05-25,"@Storch_i Ich wünsche mir, dass das #9EuroTicket endlich den Startschuss zu einer echten Verkehrswende einläutet.
+Dass #Scheuer Fahrrad fährt ist in dem Zusammenhang in Ordnung. Wer will schon im Bus neben ihm sitzen?"
+7522,"@JLichdi Als Geringverdiener freue ich mich natürlich, dass ich drei Monate den Differenzbetrag gutgeschrieben bekomme auf mein Öffi-Abo..klar, kurz gedacht...der Schwerpunkt darf nicht mehr der MIV sein sondern Schiene, Bus, Rad usw...Verkehrswende halt",1529438876695252993,0,0,0,0,de,2022-05-25T12:26:58.000Z,1529406001534881794,1156605761654591489,['Bus rad'],0,2022-05-25,"@JLichdi Als Geringverdiener freue ich mich natürlich, dass ich drei Monate den Differenzbetrag gutgeschrieben bekomme auf mein Öffi-Abo..klar, kurz gedacht...der Schwerpunkt darf nicht mehr der MIV sein sondern Schiene, Bus, Rad usw...Verkehrswende halt"
+7561,"Wer noch nicht für @VerkehrswendeHE unterschrieben hat, sollte das unbedingt noch machen!
+
+Wir haben in Frankfurt viel bewegt, aber wir brauchen auch bessere Rad-, ÖPNV-Verbindungen und Gehwege auf dem Land und für den Pendlerverkehr 👇 https://t.co/PQEN4jr4mq",1529471096440778753,4,0,16,0,de,2022-05-25T14:35:00.000Z,1529471096440778753,971401541470117889,['ÖPNV rad'],0,2022-05-25,"Wer noch nicht für @VerkehrswendeHE unterschrieben hat, sollte das unbedingt noch machen!
+
+Wir haben in Frankfurt viel bewegt, aber wir brauchen auch bessere Rad-, ÖPNV-Verbindungen und Gehwege auf dem Land und für den Pendlerverkehr 👇 "
+7567,"@Tramfan @Tramvia Schön, dass MH autogerecht bleibt. Die Verkehrswende ist gut, nur bitte nich für MH; da gehören Straße u. Bürgersteig dem Auto.  Ein modal split von 75(das goldene Kalb)-20(Fuß)-5(Rad)-0(ÖPNV) muss das Ziel sein. Parkplätze auf der Hochpromenade könnten gar die City retten ;-)🥳",1529475579573112832,1,0,1,1,de,2022-05-25T14:52:49.000Z,1529472325510479872,771244482415108097,['ÖPNV rad'],0,2022-05-25,"@Tramfan @Tramvia Schön, dass MH autogerecht bleibt. Die Verkehrswende ist gut, nur bitte nich für MH; da gehören Straße u. Bürgersteig dem Auto.  Ein modal split von 75(das goldene Kalb)-20(Fuß)-5(Rad)-0(ÖPNV) muss das Ziel sein. Parkplätze auf der Hochpromenade könnten gar die City retten ;-)🥳"
+7693,"„Menschen ohne Auto werden benachteiligt: Wenn sie sich zu Fuß, per Rad oder auch im ÖPNV bewegen, haben sie sich dem Auto unterzuordnen. Bleib stehen! Nur bis zur nächsten Ecke!“
+Freiheit geht definitiv anders. #Autokorrektur #Verkehrswende",1529558826307002369,19,0,136,0,de,2022-05-25T20:23:36.000Z,1529558826307002369,854408773875716096,['ÖPNV rad'],0,2022-05-25,"„Menschen ohne Auto werden benachteiligt: Wenn sie sich zu Fuß, per Rad oder auch im ÖPNV bewegen, haben sie sich dem Auto unterzuordnen. Bleib stehen! Nur bis zur nächsten Ecke!“
+Freiheit geht definitiv anders. #Autokorrektur #Verkehrswende"
+7792,"3 Demos, 1 Ziel: #Verkehrswende 
+
+Ob zu Fuß, mit dem Rad oder im ÖPNV, am Sonntag demonstrieren wir in #Bonn gemeinsam.
+
+Denn eins ist klar - Klimaschutz, soziale Gerechtigkeit und fossile Unabhängigkeit schaffen wir nur mit einem starken und attraktiven Umweltverbund https://t.co/hjzPZVF7qC",1529710138055176192,1,0,17,1,de,2022-05-26T06:24:52.000Z,1529710138055176192,1063503522073858048,['ÖPNV rad'],0,2022-05-26,"3 Demos, 1 Ziel: #Verkehrswende 
+
+Ob zu Fuß, mit dem Rad oder im ÖPNV, am Sonntag demonstrieren wir in #Bonn gemeinsam.
+
+Denn eins ist klar - Klimaschutz, soziale Gerechtigkeit und fossile Unabhängigkeit schaffen wir nur mit einem starken und attraktiven Umweltverbund "
+8179,"Für eine #Verkehrswende in #NRW: 
+
+Bündnis veröffentlicht Forderungskatalog
+
+https://t.co/hH8zckk2Z9
+
+▶️ klimafreundliche Mobilitätskonzepte (Fuss, Bus, Bahn, Rad) priorisieren
+
+(Spoiler: #AUTOKorrektur, #Tempolimit und Reparatur am Zug steht nicht drin)
+
+1/2",1530075544175386624,5,1,15,0,de,2022-05-27T06:36:51.000Z,1530075544175386624,1179757904628506625,"['Zug rad', 'Bus rad', 'bahn rad']",0,2022-05-27,"Für eine #Verkehrswende in #NRW: 
+
+Bündnis veröffentlicht Forderungskatalog
+
+
+
+▶️ klimafreundliche Mobilitätskonzepte (Fuss, Bus, Bahn, Rad) priorisieren
+
+(Spoiler: #AUTOKorrektur, #Tempolimit und Reparatur am Zug steht nicht drin)
+
+1/2"
+8212,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/Q7FRwCA8lq",1530100445020028929,0,0,1,0,de,2022-05-27T08:15:48.000Z,1530100445020028929,1214618499269775360,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8236,"@K3tt3nf3tt 91% des Geldes kommen von 93% der Besucher. D.h. die 7% Autofahrer zahlen 9% der Umsätze. Autofahrer sind umsatzstärkere Kunden! :-) Studie wird oft zitiert, gerne verallgemeinert (nur 2 Standorte befragt) und nicht zu Ende gedacht. #Handel #City #oepnv #fahrrad #Verkehrswende",1530118188612075526,0,1,0,0,de,2022-05-27T09:26:19.000Z,1417864106053341186,111314273,['ÖPNV Fahrrad'],0,2022-05-27,"@K3tt3nf3tt 91% des Geldes kommen von 93% der Besucher. D.h. die 7% Autofahrer zahlen 9% der Umsätze. Autofahrer sind umsatzstärkere Kunden! :-) Studie wird oft zitiert, gerne verallgemeinert (nur 2 Standorte befragt) und nicht zu Ende gedacht. #Handel #City #oepnv #fahrrad #Verkehrswende"
+8238,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/IAH2fxsG7Y",1530118657501700096,1,0,1,0,de,2022-05-27T09:28:10.000Z,1530118657501700096,126978307,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8318,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/NKkXbAY7UO",1530170797263839239,3,1,5,0,de,2022-05-27T12:55:21.000Z,1530170797263839239,18987801,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8321,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/xQd2aj8jY1",1530172993112002566,0,0,0,0,de,2022-05-27T13:04:05.000Z,1530172993112002566,3012032133,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8345,"@realwaveform @Storch_i @andreasscheuer @StefanGelbhaar Ich zweifle nicht dass Herr Gelbhaar nett ist und gelegentlich Rad fährt. Etwas anderes ist es, wenn man täglich das Rad  nutzt. Das Nicht-Rad- und ÖPNV-Fahren tritt in der konzeptionellen Leere und fehlender Fachkompetenz bei der Verkehrswende zu Tage. Deshalb gibt es keine.",1530191375001698304,0,0,0,0,de,2022-05-27T14:17:08.000Z,1529348918810664961,1333416864085635076,['ÖPNV rad'],0,2022-05-27,"@realwaveform @Storch_i @andreasscheuer @StefanGelbhaar Ich zweifle nicht dass Herr Gelbhaar nett ist und gelegentlich Rad fährt. Etwas anderes ist es, wenn man täglich das Rad  nutzt. Das Nicht-Rad- und ÖPNV-Fahren tritt in der konzeptionellen Leere und fehlender Fachkompetenz bei der Verkehrswende zu Tage. Deshalb gibt es keine."
+8377,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/smdz0IZWkG",1530220035049930752,0,0,0,0,de,2022-05-27T16:11:01.000Z,1530220035049930752,193804996,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8379,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/XXUywEbxZD",1530221899342569473,0,0,1,0,de,2022-05-27T16:18:25.000Z,1530221899342569473,751009280,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8404,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/KslrEEFZq6",1530242395207524360,6,0,11,0,de,2022-05-27T17:39:52.000Z,1530242395207524360,1038062277180751872,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8415,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/xllmwN14z8",1530250355149242368,0,1,1,0,de,2022-05-27T18:11:30.000Z,1530250355149242368,3086471601,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8416,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  https://t.co/E14fJBSHfB",1530250414020562944,0,0,0,0,de,2022-05-27T18:11:44.000Z,1530250414020562944,1167188821957627904,"['Bus rad', 'bahn rad']",0,2022-05-27,"Verkehrsminister Wissing hat er ein Klimaprogramm vorgelegt – doch das ist völlig unzureichend. Wir brauchen dringend eine echte Verkehrswende: Weg von Diesel und Benzin, hin zu weniger Autos und mehr Bus, Bahn und Rad. Jetzt Eil-Appell unterzeichnen.  "
+8456,"Kommt, wir gehen auf die Straße - ja richtig, *gehen*. Vom immer nur Auto fahren ändert sich ja nichts.
+
+Treffpunkt: Hofgarten
+Datum: 29.05.2022
+Uhrzeit: 14 Uhr
+
+Für mehr Fuß/Rad/Bus/Bahn in Bonn!
+#VerkehrswendeJETZT #Autokorrektur https://t.co/054OPnNxTH",1530290110796898308,8,1,9,0,de,2022-05-27T20:49:28.000Z,1530290110796898308,1336235503742570497,"['Bus rad', 'bahn rad']",0,2022-05-27,"Kommt, wir gehen auf die Straße - ja richtig, *gehen*. Vom immer nur Auto fahren ändert sich ja nichts.
+
+Treffpunkt: Hofgarten
+Datum: 29.05.2022
+Uhrzeit: 14 Uhr
+
+Für mehr Fuß/Rad/Bus/Bahn in Bonn!
+#VerkehrswendeJETZT #Autokorrektur "
+8638,"Ach @vvo_presse @LRAinPirna und @DVBAG so wird das nix mit der Verkehrswende. Früh zum Feiertag mit dem Rad zur Arbeit, weil die Tram um 7.30 Uhr noch schläft und nachmittags vom Regionalbus zurückgelassen, weil schon ein Kinderwagen drin ist. Nächster Bus in einer Stunde?!",1530434306518155264,0,0,0,0,de,2022-05-28T06:22:27.000Z,1530434306518155264,113998981,"['Tram rad', 'Bus rad']",0,2022-05-28,"Ach @vvo_presse @LRAinPirna und @DVBAG so wird das nix mit der Verkehrswende. Früh zum Feiertag mit dem Rad zur Arbeit, weil die Tram um 7.30 Uhr noch schläft und nachmittags vom Regionalbus zurückgelassen, weil schon ein Kinderwagen drin ist. Nächster Bus in einer Stunde?!"
