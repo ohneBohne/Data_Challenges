@@ -14,6 +14,6 @@ Bei der Analyse unseres Datensets haben wir den Schwerpunkt auf das 9 € Ticket
 
 Aus den von der Social Media Plattform Twitter erhobenen Daten wird deutlich, dass das Thema ÖPNV, Fahrrad und 9 € Ticket sehr emotional diskutiert wird. Einerseits freuen sich viele, dass man mit einem einheitlichen Tarif ganz Deutschland bereisen kann, andererseits sorgen überfüllte Bahnen und fehlende Fahrradabteile für Frust. Durch unsere Sentiment Analyse konnten wir zeigen, dass zwar der überwiegende Teil der Tweets ein negatives oder neutrales Sentiment hat, dies aber nach Betrachtung einzelner Tweets in der Regel auf konkrete Missstände wie ausgefallene Züge oder fehlende Fahrradabteile zurückzuführen ist. Auffällig war auch, dass in vielen Tweets der Social Media Account der Deutschen Bahn nicht verlinkt war.
 
-## Wie ist das Projekt zu lesen
+## Wie ist das Projekt zu lesen ist
 
 Bitte bei der Datei "download_twitter_data.ipynb" beginnen. Diese ist dokumentiert und wird durch alle weiteren relevanten Dateien dieses Projekts führen.
