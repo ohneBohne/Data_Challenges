@@ -17,3 +17,4 @@ Aus den von der Social Media Plattform Twitter erhobenen Daten wird deutlich, da
 ## Wie das Projekt zu lesen ist
 
 Bitte bei der Datei "download_twitter_data.ipynb" beginnen. Diese ist dokumentiert und wird durch alle weiteren relevanten Dateien dieses Projekts führen.
+Es sei zu beachten, dass das Datenset aus Datenschutzgründen hier nicht hinzugefügt wurde. Auch alle verwendeten Keys wie in der Datei "keys.py" und "config.ini" müssen mit den jeweils eigenen Keys für die Twitter-API und dem entsprechenden Developer-Account ausgefüllt werden.
